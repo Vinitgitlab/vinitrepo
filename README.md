@@ -1,1 +1,2 @@
-# vinitrepo
+# vinit first code 
+hello world
